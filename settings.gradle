@@ -1,0 +1,2 @@
+rootProject.name='Channel Info'
+include ':app'
